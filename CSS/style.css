@@ -1,0 +1,16 @@
+#title {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box {
+    color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    background-color: aquamarine;
+    color: indigo;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
